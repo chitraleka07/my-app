@@ -2,13 +2,13 @@ This app aims to create the image gallery and it as features such as download th
 <br/>
 ## Preview
 ### HomePage
-<img scr="https://raw.githubusercontent.com/chitraleka07/my-app/main/Assets/homepage.png" alt="home page" width="300" height="300"/><br/>
+<img src="https://raw.githubusercontent.com/chitraleka07/my-app/main/Assets/homepage.png" alt="home page" width="300" height="300"/><br/>
 ### View Particular Image
-<img scr="https://raw.githubusercontent.com/chitraleka07/my-app/main/Assets/photo_id.png" alt="home page" width="300" height="300"/><br/>
+<img src="https://raw.githubusercontent.com/chitraleka07/my-app/main/Assets/photo_id.png" alt="home page" width="300" height="300"/><br/>
 ### Search for particular image
-<img scr="https://raw.githubusercontent.com/chitraleka07/my-app/main/Assets/search.png" alt="home page" width="300" height="300"/><br/>
+<img src="https://raw.githubusercontent.com/chitraleka07/my-app/main/Assets/search.png" alt="home page" width="300" height="300"/><br/>
 ### Share the image
-<img scr="https://raw.githubusercontent.com/chitraleka07/my-app/main/Assets/share-image.jpeg" alt="home page" width="300" height="300"/><br/>
+<img src="https://raw.githubusercontent.com/chitraleka07/my-app/main/Assets/share-image.jpeg" alt="home page" width="300" height="300"/><br/>
 <br/>
 
 
