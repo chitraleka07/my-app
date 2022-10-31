@@ -1,6 +1,18 @@
-This app aims to create the imnage gallery
+This app aims to create the image gallery and it as features such as download the image,view it and share the image through social media app
+<br/>
+## Preview
+### HomePage
+<img scr="https://github.com/chitraleka07/my-app/blob/main/Assets/homepage.png" alt="home page" width="300" height="300"/><br/>
+### View Particular Image
+<img scr="https://github.com/chitraleka07/my-app/blob/main/Assets/photo_id.png" alt="home page" width="300" height="300"/><br/>
+### Search for particular image
+<img scr="https://github.com/chitraleka07/my-app/blob/main/Assets/search.png" alt="home page" width="300" height="300"/><br/>
+### Share the image
+<img scr="https://github.com/chitraleka07/my-app/blob/main/Assets/share-image.jpeg" alt="home page" width="300" height="300"/><br/>
+<br/>
 
-<img scr="./Assets/homepage.png" alt="home page" width="300" height="300"/>
+
+
 
 # Getting Started with Create React App
 
