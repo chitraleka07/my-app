@@ -12,6 +12,7 @@
     "react-redux": "^8.0.4",
     "react-router-dom": "^6.4.2",
     "react-scripts": "4.0.3",
+    "react-web-share": "^2.0.2",
     "redux": "^4.2.0",
     "redux-thunk": "^2.4.1",
     "web-vitals": "^1.1.1"
